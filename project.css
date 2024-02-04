@@ -1,0 +1,262 @@
+body{
+    background-color: rgb(136, 111, 79);
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    text-decoration: none;
+}
+.topic{
+    text-align: left;
+}
+.first-khabib-img-div{
+    text-align: center;
+}
+.first-khabib-img{
+    
+    width: 600px
+   
+    
+}
+.first-text{
+    width: 800px;
+   background-color: antiquewhite;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+.childhood-img{
+    width: 600px;
+}
+.the-beginning-great-story{
+    background-color: rgb(229, 217, 124);
+    width: 900px;
+    text-align: left;
+    margin-left:10px ;
+    padding-left: 5px;
+}
+.early-life{
+    text-align: left;
+}
+.Becoming-a-great-champion{
+    width: 900px;
+    background-color:rgb(229, 217, 124) ;
+    margin-right: 10px;
+    padding-right: 5px;
+    text-align: left;
+    margin-left: 545px;
+}
+
+.training{
+    width: 900px;
+    background-color: rgb(229, 217, 124) ;
+    text-align: left;
+    margin-left: 10px;
+    padding-left: 5px;
+
+}
+.Mixed-martial-arts-career{
+    border-bottom: 3px solid #040202;
+}
+.M-1-global-img{
+    width: 600px;
+}
+.MMA-debut{
+    width: 900px;
+    background-color: rgb(229, 217, 124) ;
+    text-align: left;
+    margin-left: 545px;
+    padding-left: 5px;
+
+}
+.record-16-0{
+    width: 900px;
+    background-color: rgb(229, 217, 124) ;
+    text-align: left;
+    margin-left: 10px;
+    padding-left: 5px;
+    margin-top: 20px;
+
+}
+
+.Ultimate-Fighting-Championship{
+    border-bottom: 3px solid #040202;
+}
+
+.Abel-img{
+    width: 600px;
+    text-align: center;
+    margin-left: 150px;
+    border-bottom: 3px solid #040202;
+}
+
+.fights-in-UFC{
+ width: 900px;
+ background-color: rgb(229, 217, 124) ;   
+ margin-right: auto;
+ margin-left: auto;
+ text-align: left;
+ 
+}
+ 
+.Pat-Healy-img{
+    width: 600px;
+    margin-left: 150px;
+    border-bottom: 3px solid #040202;
+}
+
+.Gilbert-melendes-img{
+    width: 600px;
+    margin-left:150px ;
+    border-bottom: 3px solid #040202;
+
+}
+.Rafael-dos-Anjos-img{
+    width: 600px;
+    margin-left: 150px;
+    border-bottom: 3px solid #040202;
+}
+
+.Donald-Cerrone-img{
+    width: 600px;
+    margin-left: 150px;
+    border-bottom: 3px solid #040202;
+}
+
+.Edson-Barboza-img{
+    
+        width: 600px;
+        margin-left: 150px;
+        border-bottom: 3px solid #040202;
+    }
+
+.Darrell-Horcher-img{
+    
+    width: 600px;
+    margin-left: 150px;
+    border-bottom: 3px solid #040202;
+}
+.khabib-and-konor-first-meet-video{
+    width: 500;
+    height: 500px;
+
+    margin-left:290px;
+}
+ /* projectcont.htm*/
+ .new-story{
+    width: 900px;
+    background-color: rgb(229, 217, 124) ;   
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+ }
+ .second-topic{
+    text-align: center;
+ }
+ .part-two{
+    text-align: left;
+ }
+.Michael-Johnson-img{
+    
+        width: 600px;
+        margin-left: 150px;
+        border-bottom: 3px solid #040202;
+    }   
+
+.weight-cut{
+    width: 600px;
+    margin-left: 150px;
+}
+.Edson-Barboza-img{
+    width: 600px;
+    margin-left: 150px;
+}
+
+/*UFC Lightweight Champion ioquinta*/
+.champion-fights{
+    width: 900px;
+    background-color: rgb(241, 225, 101);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+
+
+}
+
+.Al-Iaquinta-img{
+    width: 600px;
+    margin-left: 150px;
+
+}
+
+.belt-img{
+  width: 600px;
+  margin-left: 150px;
+}
+
+/*mcgregor*/
+
+.first-sterdown-img{
+    width: 600px;
+    margin-left: 150px;
+}
+
+.conflict-img{
+    width: 600px;
+    margin-left: 150px;
+}
+
+.conflict-img-2{
+    width: 600px;
+    margin-left: 150px;
+}
+
+.conflict-img-3{
+    width: 600px;
+   margin-left: 150px;
+}
+
+/*champion-fights-porier*/
+.porier-img{
+    width:600px;
+    margin-left:150px;
+}
+/*khabib&&geathge*/
+.Ferguson-geathje-img{
+    width:600px;
+    margin-left:150px;
+}
+
+.Khabib-geathje-img{
+    width: 600px;
+    margin-left: 150px;
+
+}
+
+.finish{
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+/*video khabib*/
+.Khabib-video{
+    width: 500px;
+    padding-top: 10px;
+    padding-bottom: 14px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 200px ;
+}
+
+.great{
+    text-align: center;
+}
+.Khabib{
+    text-align: center;
+}
+
+
+
